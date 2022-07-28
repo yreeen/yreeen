@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yreeen 
-- 💉 I'm ENT doctor.
+- 💉 I'm Japanese ENT doctor.
 - 👀 I’m interested in programming, astronomy, and photography.
 - 🌱 I’m currently learning C++, C#, and python.
 - 💞️ I’m looking to collaborate on ...
